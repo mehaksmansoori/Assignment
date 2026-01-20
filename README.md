@@ -9,7 +9,7 @@
 This package contains all required deliverables plus bonus automation:
 
 ### Core Deliverables
-1. **`Prompt_Engineering_Writeup.pdf`** - Main write-up (6 pages max)
+1. **`Prompt_Engineering_Writeup.pdf`** - Main write-up 
    - Part A: Prompt system design with anti-hallucination guardrails
    - Part B: Evaluation methodology and rubric
    - Part C: Iteration proof with version progression
