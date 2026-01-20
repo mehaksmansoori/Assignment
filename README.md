@@ -33,23 +33,14 @@ This package contains all required deliverables plus bonus automation:
    - Clear definitions and red flags for each criterion
    - Success thresholds by category
 
-5. **`scored_table.md`** - Complete scored evaluation
-   - Full scoring table for all 18 test cases
-   - Version comparison (V1 → V2 → V3)
-   - Category and criterion breakdowns
-   - Iteration impact analysis
 
 ### Bonus Deliverables
-6. **`test_runner.py`** - Automation script (BONUS)
+5. **`test_runner.py`** - Automation script (BONUS)
    - Automatically runs all test cases via Anthropic API
    - Configurable model selection
    - Rate limiting and error handling
    - Formatted markdown output
 
-7. **`README.md`** - This file
-   - Submission guide and navigation
-   - Quick start instructions
-   - Tools and methodology notes
 
 ## 🎯 Assignment Requirements Met
 
